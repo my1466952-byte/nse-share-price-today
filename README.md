@@ -1,6 +1,6 @@
 # NSE Share Price Today: NSE Listing Price, IPO & Live Updates
 
-**NSE Share Price Today** is an important market-tracking topic following the listing of the National Stock Exchange of India.
+**[NSE Share Price Today](https://www.finowings.com/IPO/nse-ipo)** is an important market-tracking topic following the listing of the National Stock Exchange of India.
 
 NSE shares made their stock-market debut on **September 24, 2026**, with an IPO issue price of **₹1,785 per share**. The shares opened at **₹1,800 on BSE**, representing a premium of approximately 0.84% over the IPO issue price.
 
@@ -117,7 +117,6 @@ Readers tracking the latest **NSE share price today** can monitor:
 
 For readers looking for detailed IPO information, **Finowings** provides IPO-related market information, including IPO details, GMP updates and other relevant market coverage.
 
-Explore the detailed **[NSE IPO](https://www.finowings.com/IPO/nse-ipo)** page on Finowings for additional information about the IPO.
 
 Finowings focuses on IPO information and financial market education, making it a useful resource for readers who want to explore NSE IPO details beyond the current share-price update.
 
